@@ -1,0 +1,33 @@
+{
+    "name": "Bhagat Niwas",
+    "address": "Dantodiya, Ratlam",
+    "description": "Farm house",
+    "image": "https://gateway.pinata.cloud/ipfs/QmU9fEEwg2PssvVYuRQreeQYJAwYKtDN2UP9DXVLkSs2sc/4.png",
+    "id": "4",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 30
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Single family residence"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 3000
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2022
+        }
+    ]
+}
